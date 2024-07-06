@@ -1,0 +1,44 @@
+Question 1: 
+Given a dataset in a CSV file, how would you read it into a Pandas DataFrame? And how would you handle missing values?
+
+Question 2: 
+Describe the difference between a list, a tuple, and a dictionary in Python. Provide an example for each.
+
+Question 3:
+Imagine you are provided with two datasets, 'sales_data' and 'product_data', both in the form of Pandas DataFrames. How would you merge these datasets on a common column named 'ProductID'?
+
+Question 4: 
+How would you handle duplicate rows in a Pandas DataFrame? Write a Python code snippet to demonstrate.
+
+Question 5: 
+Describe the difference between '.iloc[] and '.loc[]' in the context of Pandas.
+
+Question 6: 
+In Python's Matplotlib library, how would you plot a line chart to visualize monthly sales? Assume you have a list of months and a list of corresponding sales numbers.
+
+Question 7: 
+How would you use Python to connect to a SQL database and fetch data into a Pandas DataFrame?
+
+Question 8: 
+Explain the concept of list comprehensions in Python. Can you provide an example where it's useful for data analysis?
+
+Question 9:
+How would you reshape a long-format DataFrame to a wide format using Pandas? Explain with an example.
+
+Question 10:
+What are lambda functions in Python? How are they beneficial in data wrangling tasks?
+
+Question 11: 
+Describe a scenario where you would use the 'groupby()' method in Pandas. How would you aggregate data after grouping?
+
+Question 12: 
+You are provided with a Pandas DataFrame that contains a column with date strings. How would you convert this column to a datetime format? Additionally, how would you extract the month and year from these datetime objects?
+
+Question 13: 
+Explain the purpose of the 'pivot_table' method in Pandas and describe a business scenario where it might be useful.
+
+Question 14:
+How would you handle large datasets that don't fit into memory? Are you familiar with Dask or any similar libraries?
+
+Question 15: 
+In a dataset, you observe that some numerical columns are highly skewed. How can you normalize or transform these columns using Python?
